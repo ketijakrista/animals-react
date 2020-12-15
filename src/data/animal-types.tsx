@@ -1,0 +1,1 @@
+export const animalTypes: string[] = ['cat', 'dog', 'horse'];
